@@ -1,6 +1,6 @@
 {
   "name": "kaala-ui",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "licence": "MIT",
   "main": "dist/index.js",
   "repository": "https://github.com/sindhu0904/kaala-ui",
